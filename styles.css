@@ -36,7 +36,7 @@ main {
 }
 
 button {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #51b7d1 0%, #30263a 100%);
   color: white;
   border: none;
   padding: 0.75rem 1.5rem;
@@ -51,7 +51,7 @@ button:hover {
 }
 
 a {
-  color: #667eea;
+  color: #6ee251;
   text-decoration: none;
 }
 
